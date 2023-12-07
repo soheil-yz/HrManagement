@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace HrManagement
 {
-    internal class LeaveType
+    public class LeaveType
     {
+        public int Id {  get; set; }
+        public string Name { get; set; }
+        public int DefaultDay { get; set; }
+        public DateTime DateTime { get; set; }
     }
 }
