@@ -1,0 +1,5 @@
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Application\obj\Debug\netcoreapp2.1\HrManagement.Application.csproj.AssemblyReference.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Application\obj\Debug\netcoreapp2.1\HrManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Application\obj\Debug\netcoreapp2.1\HrManagement.Application.AssemblyInfoInputs.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Application\obj\Debug\netcoreapp2.1\HrManagement.Application.AssemblyInfo.cs
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Application\obj\Debug\netcoreapp2.1\HrManagement.Application.csproj.CoreCompileInputs.cache

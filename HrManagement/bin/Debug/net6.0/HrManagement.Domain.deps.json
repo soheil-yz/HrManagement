@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HrManagement.Domain/1.0.0": {
+        "runtime": {
+          "HrManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HrManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
