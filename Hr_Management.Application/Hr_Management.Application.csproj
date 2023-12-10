@@ -13,8 +13,4 @@
     <ProjectReference Include="..\Hr_Management.Domain\Hr_Management.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\Request\" />
-  </ItemGroup>
-
 </Project>

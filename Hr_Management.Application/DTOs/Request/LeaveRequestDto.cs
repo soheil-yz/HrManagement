@@ -1,9 +1,7 @@
 ﻿using Hr_Management.Application.DTOs.Common;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Hr_Management.Application.DTOs
+namespace Hr_Management.Application.DTOs.Request
 {
     public class LeaveRequestDto : BaseDto
     {
