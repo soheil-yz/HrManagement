@@ -7,10 +7,16 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Hr_Management.Domain\Hr_Management.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="features\LeaveTypes\Handlers\Commonds\" />
+    <Folder Include="features\LeaveTypes\Requests\Commonds\" />
   </ItemGroup>
 
 </Project>

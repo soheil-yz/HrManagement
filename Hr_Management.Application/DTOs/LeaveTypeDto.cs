@@ -1,4 +1,4 @@
-﻿using Hr_Management.Application.DTOs.Common;
+﻿    using Hr_Management.Application.DTOs.Common;
 using System;
 using System.Collections.Generic;
 using System.Text;
