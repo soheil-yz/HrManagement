@@ -10,13 +10,13 @@ using Hr_Management.Application.features.LeaveTypes.Requests.Queries;
 
 namespace Hr_Management.Application.features.LeaveTypes.Handlers.Queries
 {
-    public class GetLeaveAllocationListRequestHander :  
+    public class GetLeaveRequestListRequestHander :  
         IRequestHandler<GetLeaveTypeListRequest, List<LeaveTypeDto>>
     {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
         private readonly IMapper _mapper;
 
-        public GetLeaveAllocationListRequestHander(ILeaveTypeRepository leaveTypeRepository,IMapper mapper)
+        public GetLeaveRequestListRequestHander(ILeaveTypeRepository leaveTypeRepository,IMapper mapper)
         {
             _leaveTypeRepository = leaveTypeRepository;
             _mapper = mapper;
