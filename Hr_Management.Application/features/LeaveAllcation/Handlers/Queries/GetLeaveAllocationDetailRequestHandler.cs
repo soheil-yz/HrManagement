@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Hr_Management.Application.DTOs;
+using Hr_Management.Application.DTOs.Allocation;
 using Hr_Management.Application.features.LeaveAllocation.Requests.Queries;
 using Hr_Management.Application.features.LeaveTypes.Requests;
 using Hr_Management.Application.features.LeaveTypes.Requests.Queries;

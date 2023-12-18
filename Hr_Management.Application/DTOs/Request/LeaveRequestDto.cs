@@ -1,4 +1,5 @@
 ﻿using Hr_Management.Application.DTOs.Common;
+using Hr_Management.Application.DTOs.Type;
 using System;
 
 namespace Hr_Management.Application.DTOs.Request
