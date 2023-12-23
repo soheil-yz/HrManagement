@@ -14,11 +14,4 @@
     <ProjectReference Include="..\Hr_Management.Domain\Hr_Management.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="features\LeaveRequests\Handlers\Commonds\" />
-    <Folder Include="features\LeaveRequests\Requests\Commonds\" />
-    <Folder Include="features\LeaveTypes\Handlers\Commonds\" />
-    <Folder Include="features\LeaveTypes\Requests\Commonds\" />
-  </ItemGroup>
-
 </Project>
