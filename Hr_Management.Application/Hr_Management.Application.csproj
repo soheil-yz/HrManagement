@@ -15,8 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="features\LeaveAllcation\Handlers\Commonds\" />
-    <Folder Include="features\LeaveAllcation\Requests\Commonds\" />
     <Folder Include="features\LeaveRequests\Handlers\Commonds\" />
     <Folder Include="features\LeaveRequests\Requests\Commonds\" />
     <Folder Include="features\LeaveTypes\Handlers\Commonds\" />
