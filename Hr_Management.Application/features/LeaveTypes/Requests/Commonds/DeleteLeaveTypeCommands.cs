@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Hr_Management.Application.features.LeaveTypes.Requests.Commonds
 {
-    public class DeleteLeaveTypeCommands :IRequest
+    public class DeleteLeaveTypeCommands :IRequest<Unit>
     {
         public int Id { get; set; }
     }

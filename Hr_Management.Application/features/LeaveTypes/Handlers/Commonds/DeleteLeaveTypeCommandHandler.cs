@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Hr_Management.Application.features.LeaveTypes.Handlers.Commonds
 {
-    public class DeleteLeaveTypeCommandHandler : IRequestHandler<DeleteLeaveTypeCommands>
+    public class DeleteLeaveTypeCommandHandler : IRequestHandler<DeleteLeaveTypeCommands , Unit>
     {
         private readonly ILeaveTypeRepository _LeaveTypeRepository;
         private readonly IMapper _mapper;
@@ -20,9 +20,14 @@ namespace Hr_Management.Application.features.LeaveTypes.Handlers.Commonds
             _LeaveTypeRepository = leaveTypeRepository;
             _mapper = mapper;
         }
-        public Task Handle(DeleteLeaveTypeCommands request, CancellationToken cancellationToken)
+
+        public async Task<Unit> Handle(DeleteLeaveTypeCommands request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            var LeaveType = await _LeaveTypeRepository.Get(request.Id);
+            await _LeaveTypeRepository.Delete(LeaveType);
+            return Unit.Value;
         }
+        //This File has Probblem  in Unit 
+        //تا فیلم 24 کامل دیدم و مشکل در فیلم 25
     }
 }
