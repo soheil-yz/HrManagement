@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Hr_Management.Application.features.LeaveRequests.Handlers.Commonds
 {
-    internal class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommands>
+    internal class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommands , Unit>
     {
         private readonly ILeaveRequestRepository _leaveRequestRepository;
         private readonly IMapper _mapper;
@@ -20,9 +20,13 @@ namespace Hr_Management.Application.features.LeaveRequests.Handlers.Commonds
             _leaveRequestRepository = leaveRequestRepository;
             _mapper = mapper;
         }
-        public Task Handle(DeleteLeaveRequestCommands request, CancellationToken cancellationToken)
+        public async Task<Unit> Handle(DeleteLeaveRequestCommands request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            var leaveRequest = await _leaveRequestRepository.Get(request.Id);
+            await _leaveRequestRepository.Delete(leaveRequest);
+            return Unit.Value;
         }
+
+
     }
 }

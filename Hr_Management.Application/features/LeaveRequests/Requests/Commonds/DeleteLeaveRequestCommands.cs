@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Hr_Management.Application.features.LeaveRequests.Requests.Commonds
 {
-    internal class DeleteLeaveRequestCommands : IRequest
+    public class DeleteLeaveRequestCommands : IRequest<Unit>
     {
+        public int Id { get; set; } 
     }
 }
