@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Hr_Management.Application.features.LeaveAllcation.Requests.Commonds
 {
-    internal class DeleteLeaveAllocationCommands : IRequest
+    public class DeleteLeaveAllocationCommands : IRequest<Unit>
     {
+        public int Id { get; set; }
     }
 }

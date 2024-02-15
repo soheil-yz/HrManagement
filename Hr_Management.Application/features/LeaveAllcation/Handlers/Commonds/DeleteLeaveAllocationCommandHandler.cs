@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Hr_Management.Application.features.LeaveAllcation.Handlers.Commonds
 {
-    internal class DeleteLeaveAllocationCommandHandler : IRequestHandler<DeleteLeaveAllocationCommands>
+    internal class DeleteLeaveAllocationCommandHandler : IRequestHandler<DeleteLeaveAllocationCommands , Unit>
     {
         private readonly ILeaveAllocationRepository _leaveAllocationRepository;
         private readonly IMapper _mapper;
@@ -21,9 +21,11 @@ namespace Hr_Management.Application.features.LeaveAllcation.Handlers.Commonds
             _leaveAllocationRepository = leaveAllocationRepository;
             _mapper = mapper;
         }
-        public Task Handle(DeleteLeaveAllocationCommands request, CancellationToken cancellationToken)
+        public async Task<Unit> Handle(DeleteLeaveAllocationCommands request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            var leaveRequest = await _leaveAllocationRepository.Get(request.Id);
+            await _leaveAllocationRepository.Delete(leaveRequest);
+            return Unit.Value;
         }
     }
 }
