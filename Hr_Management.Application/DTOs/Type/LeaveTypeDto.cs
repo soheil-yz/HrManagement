@@ -5,9 +5,11 @@ using System.Text;
 
 namespace Hr_Management.Application.DTOs.Type
 {
-    public class LeaveTypeDto : BaseDto
+    public class LeaveTypeDto : BaseDto , ILeaveTypeDto
     {
+
         public string Name { get; set; }
-        public int DefaultDay { get; set; }
+        public int DefauletDay { get; set; }
+
     }
 }
