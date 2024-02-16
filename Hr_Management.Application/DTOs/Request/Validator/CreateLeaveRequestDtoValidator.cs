@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Hr_Management.Application.DTOs.Request.Validator
 {
-    public class CreateLeaveRequestDtoValidator : AbstractValidator<CreateLeaveTypeDto>
+    public class CreateLeaveRequestDtoValidator : AbstractValidator<CreateLeaveRequestDto>
     {
     }
 }
