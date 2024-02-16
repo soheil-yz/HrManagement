@@ -22,7 +22,7 @@ namespace Hr_Management.Application.features.LeaveTypes.Handlers.Commonds
         }
         public async Task<int> Handle(CreateLeaveTypeCommands request, CancellationToken cancellationToken)
         {
-            var validator = new ILeaveTypeDtoValidator();
+            var validator = new CreateLeaveTypeValidator();
             var validatorResult = await validator.ValidateAsync(request.LeaveTypeDto);
 
             if (validatorResult.IsValid == false)

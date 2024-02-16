@@ -9,7 +9,7 @@ namespace Hr_Management.Application.DTOs.Type.Validator
     {
         public UpdateLeaveTypeValidator()
         {
-            Include(new ILeaveTypeDtoValidator());
+            Include(new CreateLeaveTypeDtoValidator());
 
             RuleFor(p => p.Id)
                 .NotEmpty()

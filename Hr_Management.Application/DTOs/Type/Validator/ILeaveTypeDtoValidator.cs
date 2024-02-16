@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Hr_Management.Application.DTOs.Type.Validator
 {
-    public class ILeaveTypeDtoValidator : AbstractValidator<ILeaveTypeDto>
+    public class CreateLeaveTypeDtoValidator : AbstractValidator<ILeaveTypeDto>
     {
-        public ILeaveTypeDtoValidator()
+        public CreateLeaveTypeDtoValidator()
         {
             RuleFor(p => p.Name).NotEmpty().WithMessage("{PropertyName} is required.")
                 .NotNull()
