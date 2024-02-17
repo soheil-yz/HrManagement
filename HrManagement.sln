@@ -19,9 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hr_Management.Application",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hr_Management.Domain", "Hr_Management.Domain\Hr_Management.Domain.csproj", "{884E1E04-C2AA-4666-8638-76C7FF10CC14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrManagement.Infrustructure", "HrManagement.Infrustructure\HrManagement.Infrustructure.csproj", "{A93DDEF0-ACCF-4449-A795-104E37E24A92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrManagement.Infrastructure", "HrManagement.Infrustructure\HrManagement.Infrastructure.csproj", "{A93DDEF0-ACCF-4449-A795-104E37E24A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrManagement.Persistence", "HrManagement.Persistence\HrManagement.Persistence.csproj", "{CF5D5262-459E-453E-A660-A8F31BA0FD07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrManagement.Persistence", "HrManagement.Persistence\HrManagement.Persistence.csproj", "{CF5D5262-459E-453E-A660-A8F31BA0FD07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

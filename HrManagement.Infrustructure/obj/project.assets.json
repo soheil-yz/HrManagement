@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrustructure.csproj",
-      "projectName": "HrManagement.Infrustructure",
-      "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrustructure.csproj",
+      "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj",
+      "projectName": "HrManagement.Infrastructure",
+      "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\obj\\",
       "projectStyle": "PackageReference",
