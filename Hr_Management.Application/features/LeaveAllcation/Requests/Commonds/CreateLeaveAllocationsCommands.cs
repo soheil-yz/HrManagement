@@ -9,7 +9,7 @@ namespace Hr_Management.Application.features.LeaveAllocation.Requests.Commonds
 {
     public class CreateLeaveAllocationsCommands : IRequest<int>
     {
-        public LeaveAllocationDto LeaveAllocationDto { get; set; }
+        public CreateLeaveAllocationDto LeaveAllocationDto { get; set; }
 
     }
 }
