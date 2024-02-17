@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Hr_Management.Application.Exceptions;
 using Hr_Management.Application.features.LeaveTypes.Requests.Commonds;
 using Hr_Management.Application.Persistence.Contracts;
 using MediatR;
@@ -23,11 +24,13 @@ namespace Hr_Management.Application.features.LeaveTypes.Handlers.Commonds
 
         public async Task<Unit> Handle(DeleteLeaveTypeCommands request, CancellationToken cancellationToken)
         {
-            var LeaveType = await _LeaveTypeRepository.Get(request.Id);
-            await _LeaveTypeRepository.Delete(LeaveType);
+            var leaveType = await _LeaveTypeRepository.Get(request.Id);
+            if (leaveType == null) 
+                throw new NotFoundException(nameof(LeaveType),request.Id);
+
+            await _LeaveTypeRepository.Delete(leaveType);
             return Unit.Value;
         }
-        //This File has Probblem  in Unit 
-        //تا فیلم 24 کامل دیدم و مشکل در فیلم 25
+       
     }
 }
