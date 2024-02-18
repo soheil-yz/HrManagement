@@ -14,32 +14,32 @@ namespace HrManagement.Persistence.Repositories
         {
             _context = context;
         }
-        Task<T> IGenericRepository<T>.Add(T entity)
+        public async Task<T> Add(T entity)
         {
             throw new NotImplementedException();
         }
 
-        Task<T> IGenericRepository<T>.Delete(T entity)
+        public async Task<T> Delete(T entity)
         {
             throw new NotImplementedException();
         }
 
-        Task<bool> IGenericRepository<T>.Exist(int id)
+        public async Task<bool> Exist(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<T> IGenericRepository<T>.Get(int id)
+        public async Task<T> Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        Task<IReadOnlyList<T>> IGenericRepository<T>.GetAll()
+        public async Task<IReadOnlyList<T>> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        Task<T> IGenericRepository<T>.Update(T entity)
+        public async Task<T> Update(T entity)
         {
             throw new NotImplementedException();
         }
