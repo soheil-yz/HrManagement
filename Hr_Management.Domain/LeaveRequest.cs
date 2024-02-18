@@ -12,7 +12,7 @@ namespace Hr_Management
         public DateTime DateRequested { get; set; }
         public string RequestComments { get; set; }  
         public DateTime? DateActioned { get; set; }
-        public bool? Aoorived { get; set; }
+        public bool? Apprived { get; set; }
         public bool Cancelled { get; set; }
 
     }
