@@ -1,6 +1,8 @@
 ﻿using Hr_Management.Application.Persistence.Contracts;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,32 +18,37 @@ namespace HrManagement.Persistence.Repositories
         }
         public async Task<T> Add(T entity)
         {
-            throw new NotImplementedException();
+            await _context.AddAsync(entity);
+            await _context.SaveChangesAsync();
+            return entity;
         }
 
-        public async Task<T> Delete(T entity)
+        public async Task Delete(T entity)
         {
-            throw new NotImplementedException();
+            _context.Set<T>().Remove(entity);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<bool> Exist(int id)
         {
-            throw new NotImplementedException();
+            var entity = await Get(id);
+            return entity != null;
         }
 
         public async Task<T> Get(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Set<T>().FindAsync(id);
         }
 
         public async Task<IReadOnlyList<T>> GetAll()
         {
-            throw new NotImplementedException();
+            return await _context.Set<T>().ToListAsync();
         }
 
-        public async Task<T> Update(T entity)
+        public async Task Update(T entity)
         {
-            throw new NotImplementedException();
+            _context.Entry(entity).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
         }
     }
 }
