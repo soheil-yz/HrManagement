@@ -1,10 +1,11 @@
 ﻿using Hr_Management;
-using Hr_Management.Application.Persistence.Contracts;
+using Hr_Management.Application.Contracts.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Runtime.CompilerServices;
 using System.Text;
 
@@ -30,3 +31,4 @@ namespace HrManagement.Persistence.Repositories
         }
     }
 }
+

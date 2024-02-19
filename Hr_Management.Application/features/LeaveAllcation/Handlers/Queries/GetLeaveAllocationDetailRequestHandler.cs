@@ -3,7 +3,7 @@ using Hr_Management.Application.DTOs.Allocation;
 using Hr_Management.Application.features.LeaveAllocation.Requests.Queries;
 using Hr_Management.Application.features.LeaveTypes.Requests;
 using Hr_Management.Application.features.LeaveTypes.Requests.Queries;
-using Hr_Management.Application.Persistence.Contracts;
+using Hr_Management.Application.Contracts.Persistence;
 using MediatR;
 using System;
 using System.Collections.Generic;

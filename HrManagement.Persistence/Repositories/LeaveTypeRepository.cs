@@ -1,5 +1,5 @@
 ﻿using Hr_Management;
-using Hr_Management.Application.Persistence.Contracts;
+using Hr_Management.Application.Contracts.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Text;

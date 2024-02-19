@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Hr_Management.Application.DTOs;
-using Hr_Management.Application.Persistence.Contracts;
+using Hr_Management.Application.Contracts.Persistence;
 using MediatR;
 using System.Collections.Generic;
 using System.Threading;
@@ -15,7 +15,7 @@ namespace Hr_Management.Application.features.LeaveRequest.Handlers.Queries
     public class GetLeaveRequestListRequestHander :  
         IRequestHandler<GetLeaveRequestListRequest, List<LeaveRequestListDto>>
     {
-        private readonly ILeaveRequestRepository _leaveRequestRepository;
+        private readonly  ILeaveRequestRepository _leaveRequestRepository;
         private readonly IMapper _mapper;
 
         public GetLeaveRequestListRequestHander(ILeaveRequestRepository leaveRequestRepository, IMapper mapper)

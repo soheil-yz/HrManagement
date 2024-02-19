@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Hr_Management.Application.Exceptions;
 using Hr_Management.Application.features.LeaveTypes.Requests.Commonds;
-using Hr_Management.Application.Persistence.Contracts;
+using Hr_Management.Application.Contracts.Persistence;
 using MediatR;
 using System;
 using System.Collections.Generic;
