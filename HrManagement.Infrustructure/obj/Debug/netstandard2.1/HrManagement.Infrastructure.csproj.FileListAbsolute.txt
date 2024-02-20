@@ -7,3 +7,9 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\obj\Debug\netstandard2.1\HrManagement.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\obj\Debug\netstandard2.1\HrManagement.Infrastructure.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\obj\Debug\netstandard2.1\HrManagement.Infrastructure.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\bin\Debug\netstandard2.1\Hr_Management.Application.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\bin\Debug\netstandard2.1\Hr_Management.Domain.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\bin\Debug\netstandard2.1\Hr_Management.Application.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\bin\Debug\netstandard2.1\Hr_Management.Domain.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\obj\Debug\netstandard2.1\HrManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Infrustructure\obj\Debug\netstandard2.1\HrManagement.Infrastructure.csproj.CopyComplete

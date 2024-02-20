@@ -1,5 +1,6 @@
 ﻿using Hr_Management;
 using Hr_Management.Application.Contracts.Persistence;
+using HrManagement.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,12 +10,12 @@ using System.Diagnostics.Contracts;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace HrManagement.Persistence.Repositories
+namespace HrManagement.Persistence
 {
     public static class PersistenceServicesRegisteration
     {
         public static IServiceCollection ConfigurePersistenceServices(this IServiceCollection services
-            ,IConfiguration configuration)
+            , IConfiguration configuration)
         {
             services.AddDbContext<LeaveManagementDbContext>(options =>
             {
@@ -27,7 +28,7 @@ namespace HrManagement.Persistence.Repositories
             services.AddScoped<ILeaveRequestRepository, LeaveRequestRepository>();
 
             return services;
-            
+
         }
     }
 }
