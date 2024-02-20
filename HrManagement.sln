@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrManagement.Infrastructure
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrManagement.Persistence", "HrManagement.Persistence\HrManagement.Persistence.csproj", "{CF5D5262-459E-453E-A660-A8F31BA0FD07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrManagement.Api", "HrManagement.Api\HrManagement.Api.csproj", "{1962D5F2-71AE-4456-B597-56EFCC7796AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CF5D5262-459E-453E-A660-A8F31BA0FD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF5D5262-459E-453E-A660-A8F31BA0FD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF5D5262-459E-453E-A660-A8F31BA0FD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1962D5F2-71AE-4456-B597-56EFCC7796AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1962D5F2-71AE-4456-B597-56EFCC7796AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1962D5F2-71AE-4456-B597-56EFCC7796AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1962D5F2-71AE-4456-B597-56EFCC7796AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{884E1E04-C2AA-4666-8638-76C7FF10CC14} = {08C281D6-32BB-4E1B-96C1-A26E2904A8D4}
 		{A93DDEF0-ACCF-4449-A795-104E37E24A92} = {5B5599D0-54D1-4AB6-8B08-BB154A3A652C}
 		{CF5D5262-459E-453E-A660-A8F31BA0FD07} = {5B5599D0-54D1-4AB6-8B08-BB154A3A652C}
+		{1962D5F2-71AE-4456-B597-56EFCC7796AE} = {2122E683-9C1E-45B2-AE59-C68E1D14A5C5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {590D7F8C-9A13-435D-A1E7-2BB7AD355267}
