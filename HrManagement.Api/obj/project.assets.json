@@ -2879,6 +2879,7 @@
       "HrManagement.Persistence >= 1.0.0",
       "Hr_Management.Application >= 1.0.0",
       "Hr_Management.Domain >= 1.0.0",
+      "MediatR >= 12.2.0",
       "Microsoft.EntityFrameworkCore >= 6.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.2",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.2",
@@ -2945,6 +2946,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.2.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.2, )"
