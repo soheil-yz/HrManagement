@@ -1,0 +1,7 @@
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.csproj.AssemblyReference.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.AssemblyInfoInputs.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.AssemblyInfo.cs
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net8.0\HrManagement.Api.MvcApplicationPartsAssemblyInfo.cache

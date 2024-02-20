@@ -11,7 +11,7 @@ namespace HrManagement.Infrastructure
 {
     public static class InfrastructureServicesRegistration
     {
-        public static IServiceCollection ConfigurePersistenceServices(this IServiceCollection services
+        public static IServiceCollection ConfigurenfrastructureServices(this IServiceCollection services
           , IConfiguration configuration)
         {
             services.Configure<EmailSetting>(configuration.GetSection("EmailSettings"));
