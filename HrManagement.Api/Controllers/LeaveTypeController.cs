@@ -55,7 +55,7 @@ namespace HrManagement.Api.Controllers
 
         // DELETE api/<ValuesController>/5
         [HttpDelete("{id}")]
-        public async void Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
             var command  = new DeleteLeaveTypeCommands { Id = id };
             await _mediator.Send(command);

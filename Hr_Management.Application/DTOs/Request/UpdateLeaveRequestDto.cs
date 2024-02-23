@@ -13,5 +13,9 @@ namespace Hr_Management.Application.DTOs.Request
         public string RequestComments { get; set; }
         public bool Cancelled { get; set; }
 
+        public static implicit operator UpdateLeaveRequestDto(LeaveRequestDto v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
