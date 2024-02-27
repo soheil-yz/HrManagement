@@ -1,4 +1,5 @@
 ﻿using Hr_Management.Application.Profiles;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,11 @@ namespace Hr_Management.Application
         public static void ConfigureApplicationServices(this IServiceCollection services)
         {
             //services.AddAutoMapper(typeof(MappingProfile));
-            services.AddAutoMapper(Assembly.GetExecutingAssembly());    
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            //services.AddMediatR(Assembly.GetExecutingAssembly());
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
+           
+
         }
     }
 }

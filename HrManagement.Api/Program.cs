@@ -1,6 +1,8 @@
 using HrManagement.Persistence;
 using Hr_Management.Application;
 using HrManagement.Infrastructure;
+using System.Reflection;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 
 builder.Services.AddCors(o =>
 {
