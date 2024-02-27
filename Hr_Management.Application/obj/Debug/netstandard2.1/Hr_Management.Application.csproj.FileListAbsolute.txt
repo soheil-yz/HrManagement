@@ -8,6 +8,6 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.AssemblyInfoInputs.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.AssemblyInfo.cs
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.csproj.CoreCompileInputs.cache
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.csproj.CopyComplete
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Manag.661539E6.Up2Date
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\Hr_Management.Application\obj\Debug\netstandard2.1\Hr_Management.Application.pdb

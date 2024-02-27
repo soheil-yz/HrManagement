@@ -66,6 +66,7 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.AssemblyInfoInputs.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.AssemblyInfo.cs
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
@@ -75,10 +76,9 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HrManagement.Api.props
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\scopedcss\bundle\HrManagement.Api.styles.css
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.csproj.CopyComplete
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManage.BFE3A681.Up2Date
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\refint\HrManagement.Api.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.genruntimeconfig.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\ref\HrManagement.Api.dll
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Api\obj\Debug\net6.0\HrManagement.Api.MvcApplicationPartsAssemblyInfo.cs

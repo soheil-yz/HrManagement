@@ -10,6 +10,6 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.AssemblyInfoInputs.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.AssemblyInfo.cs
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.csproj.CopyComplete
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManage.2EDBDDC1.Up2Date
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.Persistence\obj\Debug\netstandard2.1\HrManagement.Persistence.pdb
