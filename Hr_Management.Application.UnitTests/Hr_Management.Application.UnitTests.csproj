@@ -23,4 +23,13 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="LeaveTypes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HrManagement.Infrustructure\HrManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\HrManagement.Persistence\HrManagement.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\mocks\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\mocks\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaverequests\\requests\\queries\\getleaverequestlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaverequests\\requests\\queries\\getleaverequestlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|solutionrelative:hrmanagement.api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|solutionrelative:hrmanagement.api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\handlers\\commonds\\createleaveallocationscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\handlers\\commonds\\createleaveallocationscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationdetailrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationdetailrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationlistrequesthander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationlistrequesthander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\requests\\queries\\getleaveallocationdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\requests\\queries\\getleaveallocationdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\requests\\queries\\getleaveallocationlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\requests\\queries\\getleaveallocationlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaverequests\\requests\\commonds\\updateleaverequestcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaverequests\\requests\\commonds\\updateleaverequestcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,144 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "Hr_Management.Application\\Profiles\\MappingProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "MockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Mocks\\MockRepository.cs",
+              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\Mocks\\MockRepository.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Mocks\\MockRepository.cs",
+              "RelativeToolTip": "Hr_Management.Application.UnitTests\\Mocks\\MockRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:42:16.418Z",
+              "WhenOpened": "2024-02-27T16:59:00.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\UnitTest1.cs",
-              "RelativeToolTip": "Hr_Management.Application.UnitTests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Usings.cs",
+              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Usings.cs",
+              "RelativeToolTip": "Hr_Management.Application.UnitTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:25:20.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeaveRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "RelativeDocumentMoniker": "HrManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "RelativeToolTip": "HrManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBwAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:15:58.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LeaveAllocationController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "RelativeDocumentMoniker": "HrManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "RelativeToolTip": "HrManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:15:30.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateLeaveAllocationsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Commonds\\CreateLeaveAllocationsCommandHandler.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Commonds\\CreateLeaveAllocationsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Commonds\\CreateLeaveAllocationsCommandHandler.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Commonds\\CreateLeaveAllocationsCommandHandler.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:14:02.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetLeaveAllocationDetailRequestHandler.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationDetailRequestHandler.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationDetailRequestHandler.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationDetailRequestHandler.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationDetailRequestHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:12:46.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetLeaveRequestListRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveRequests\\Requests\\Queries\\GetLeaveRequestListRequest.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveRequests\\Requests\\Queries\\GetLeaveRequestListRequest.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveRequests\\Requests\\Queries\\GetLeaveRequestListRequest.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveRequests\\Requests\\Queries\\GetLeaveRequestListRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:04:20.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetLeaveAllocationListRequestHander.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBkAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:07:12.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetLeaveAllocationDetailRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationDetailRequest.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationDetailRequest.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationDetailRequest.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationDetailRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:06:24.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetLeaveAllocationListRequest.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationListRequest.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationListRequest.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationListRequest.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Requests\\Queries\\GetLeaveAllocationListRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:06:23.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateLeaveRequestCommands.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveRequests\\Requests\\Commonds\\UpdateLeaveRequestCommands.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveRequests\\Requests\\Commonds\\UpdateLeaveRequestCommands.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveRequests\\Requests\\Commonds\\UpdateLeaveRequestCommands.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveRequests\\Requests\\Commonds\\UpdateLeaveRequestCommands.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:05:51.918Z",
+              "WhenOpened": "2024-02-27T16:49:05.562Z",
               "EditorCaption": ""
             }
           ]

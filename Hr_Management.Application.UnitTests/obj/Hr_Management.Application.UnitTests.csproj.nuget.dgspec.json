@@ -4,6 +4,176 @@
     "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj",
+        "projectName": "HrManagement.Infrastructure",
+        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\HrManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\HrManagement.Persistence.csproj",
+        "projectName": "HrManagement.Persistence",
+        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\HrManagement.Persistence.csproj",
+        "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,7 +198,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Infrustructure\\HrManagement.Infrastructure.csproj"
+              },
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\HrManagement.Persistence.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Persistence\\HrManagement.Persistence.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -88,6 +265,150 @@
           "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj",
+        "projectName": "Hr_Management.Application",
+        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Hr_Management.Application.csproj",
+        "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\Hr_Management.Domain.csproj": {
+                "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\Hr_Management.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\Hr_Management.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\Hr_Management.Domain.csproj",
+        "projectName": "Hr_Management.Domain",
+        "projectPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\Hr_Management.Domain.csproj",
+        "packagesPath": "C:\\Users\\sohei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
               "privateAssets": "all"
             }
           },
