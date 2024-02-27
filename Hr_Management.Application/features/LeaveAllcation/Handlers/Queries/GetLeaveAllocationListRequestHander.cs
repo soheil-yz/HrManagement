@@ -7,24 +7,26 @@ using System.Threading.Tasks;
 using System;
 using Hr_Management.Application.features.LeaveTypes.Requests.Queries;
 using Hr_Management.Application.DTOs.Type;
+using Hr_Management.Application.DTOs.Allocation;
+using Hr_Management.Application.features.LeaveAllocation.Requests.Queries;
 
 namespace Hr_Management.Application.features.LeaveTypes.Handlers.Queries
 {
     public class GetLeaveAllocationListRequestHander :  
-        IRequestHandler<GetLeaveTypeListRequest, List<LeaveTypeDto>>
+        IRequestHandler<GetLeaveAllocationListRequest, List<LeaveAllocationDto>>
     {
-        private readonly ILeaveTypeRepository _leaveTypeRepository;
+        private readonly ILeaveAllocationRepository _leaveAllocationRepository;
         private readonly IMapper _mapper;
 
-        public GetLeaveAllocationListRequestHander(ILeaveTypeRepository leaveTypeRepository,IMapper mapper)
+        public GetLeaveAllocationListRequestHander(ILeaveAllocationRepository leaveAllocationRepository, IMapper mapper)
         {
-            _leaveTypeRepository = leaveTypeRepository;
+            _leaveAllocationRepository = leaveAllocationRepository;
             _mapper = mapper;
         }
-        public async Task<List<LeaveTypeDto>> Handle(GetLeaveTypeListRequest request, CancellationToken cancellationToken)
+        public async Task<List<LeaveAllocationDto>> Handle(GetLeaveAllocationListRequest     request, CancellationToken cancellationToken)
         {
-            var leaveTypeList = await _leaveTypeRepository.GetAll();
-            return _mapper.Map<List<LeaveTypeDto>>(leaveTypeList);
+            var leaveAllocationList = await _leaveAllocationRepository.GetAll();
+            return _mapper.Map<List<LeaveAllocationDto>>(leaveAllocationList);
         }
     }
 }
