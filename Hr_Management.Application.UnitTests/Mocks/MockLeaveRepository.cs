@@ -8,23 +8,24 @@ using System.Threading.Tasks;
 
 namespace Hr_Management.Application.UnitTests.Mocks
 {
-    public class MockRepository
+    public static class MockLeaveRepository
     {
         public static Mock<ILeaveTypeRepository> GetLeaveTypeRepository()
         {
             var leaveTypes = new List<LeaveType>()
-            { new LeaveType
-            {
-                Id = 1,
-                DefaultDay = 10,
-                Name = "Test Vacation",
-            },
+            { 
+                new LeaveType
+                {
+                 Id = 1,
+                 DefaultDay = 10,
+                 Name = "Test Vacation",
+                },
             new LeaveType
-            {
-                Id = 2,
-                DefaultDay = 20,    
-                Name = "Test Silk",
-            }
+                {
+                 Id = 2,
+                 DefaultDay = 20,    
+                 Name = "Test Silk",
+                }
             };
 
             var mocks = new Mock<ILeaveTypeRepository>();

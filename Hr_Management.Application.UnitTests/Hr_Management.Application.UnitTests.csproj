@@ -24,12 +24,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="LeaveTypes\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\HrManagement.Api\HrManagement.Api.csproj" />
     <ProjectReference Include="..\HrManagement.Infrustructure\HrManagement.Infrastructure.csproj" />
     <ProjectReference Include="..\HrManagement.Persistence\HrManagement.Persistence.csproj" />
+    <ProjectReference Include="..\Hr_Management.Application\Hr_Management.Application.csproj" />
+    <ProjectReference Include="..\Hr_Management.Domain\Hr_Management.Domain.csproj" />
   </ItemGroup>
 
 </Project>
