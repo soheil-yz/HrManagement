@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "APpHXpVyGwfb4kpQsCoOlc1xozNfQjM3REBkHJcMmDenqr8nnFeH8GbnwCpA1ydfbvxNqhhKfNe6RlI8d9PHNw==",
+  "dgSpecHash": "ZmwZlD1M1G6DvXq69rqcFXyXy0t3h0YdJPPi50weEWpgNLXFpzbu13+vC8NRw0fxPEYflP8boHtkqxmS2aPirQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\HrManagement.MVC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sohei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\sohei\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\localstorage\\2.1.0\\localstorage.2.1.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sohei\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

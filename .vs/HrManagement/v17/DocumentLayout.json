@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\hrmanagement.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\hrmanagement.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|solutionrelative:hrmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.api\\hrmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|solutionrelative:hrmanagement.api\\hrmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +38,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceClient.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAK4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T10:18:05.763Z",
+              "DocumentIndex": 1,
+              "Title": "HrManagement.MVC",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\HrManagement.MVC.csproj",
+              "RelativeDocumentMoniker": "HrManagement.MVC\\HrManagement.MVC.csproj",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\HrManagement.MVC.csproj",
+              "RelativeToolTip": "HrManagement.MVC\\HrManagement.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T13:36:55.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "HrManagement.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\appsettings.json",
+              "RelativeToolTip": "HrManagement.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T12:43:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HrManagement.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HrManagement.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T12:42:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HrManagement.Api",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\HrManagement.Api.csproj",
+              "RelativeDocumentMoniker": "HrManagement.Api\\HrManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\HrManagement.Api.csproj",
+              "RelativeToolTip": "HrManagement.Api\\HrManagement.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T12:42:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "HrManagement.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Program.cs",
+              "RelativeToolTip": "HrManagement.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T10:15:13.668Z",
+              "WhenOpened": "2024-02-28T12:39:37.517Z",
               "EditorCaption": ""
             }
           ]

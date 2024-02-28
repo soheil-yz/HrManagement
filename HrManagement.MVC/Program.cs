@@ -1,7 +1,17 @@
+using HrManagement.MVC.Services;
+using Microsoft.AspNetCore.SignalR;
+using System.Reflection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
 builder.Services.AddControllersWithViews();
+
+string api = builder.Configuration.GetSection("ApiAdress").Value;
+builder.Services.AddHttpClient<IClient, Client>(c=>c.BaseAddress = new Uri(api));
+
 
 var app = builder.Build();
 

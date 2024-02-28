@@ -31,3 +31,5 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\obj\Debug\net6.0\HrManagement.MVC.pdb
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\obj\Debug\net6.0\HrManagement.MVC.genruntimeconfig.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\obj\Debug\net6.0\ref\HrManagement.MVC.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\LocalStorage.dll
