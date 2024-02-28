@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\leavetypes\\commands\\createleavetypecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\leavetypes\\commands\\createleavetypecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\leavetypes\\queries\\getleavetypelistrequesthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\leavetypes\\queries\\getleavetypelistrequesthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\hr_management.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\hr_management.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application.unittests\\mocks\\mockleaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02196067-9B8E-49EF-9659-ED6EB9BA600B}|Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj|solutionrelative:hr_management.application.unittests\\mocks\\mockleaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\contracts\\persistence\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,74 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateLeaveTypeCommandHandlerTest.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTest.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTest.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTest.cs",
-              "RelativeToolTip": "Hr_Management.Application.UnitTests\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTest.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwC8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T08:47:06.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Hr_Management.Application.UnitTests",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj",
-              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj",
-              "RelativeToolTip": "Hr_Management.Application.UnitTests\\Hr_Management.Application.UnitTests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-28T08:45:54.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILeaveRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
-              "RelativeToolTip": "Hr_Management.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:32:09.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetLeaveTypeListRequestHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\LeaveTypes\\Queries\\GetLeaveTypeListRequestHandlerTests.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\LeaveTypes\\Queries\\GetLeaveTypeListRequestHandlerTests.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\LeaveTypes\\Queries\\GetLeaveTypeListRequestHandlerTests.cs",
-              "RelativeToolTip": "Hr_Management.Application.UnitTests\\LeaveTypes\\Queries\\GetLeaveTypeListRequestHandlerTests.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAnwCkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:40:53.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MockLeaveRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Mocks\\MockLeaveRepository.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application.UnitTests\\Mocks\\MockLeaveRepository.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application.UnitTests\\Mocks\\MockLeaveRepository.cs",
-              "RelativeToolTip": "Hr_Management.Application.UnitTests\\Mocks\\MockLeaveRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:59:00.552Z"
             }
           ]
         }
