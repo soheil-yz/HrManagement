@@ -1,3 +1,5 @@
+using HrManagement.MVC.Contracts;
+using HrManagement.MVC.Services;
 using HrManagement.MVC.Services.Base;
 using Microsoft.AspNetCore.SignalR;
 using System.Reflection;
@@ -6,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
-
+builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
 builder.Services.AddControllersWithViews();
 
 string api = builder.Configuration.GetSection("ApiAdress").Value;
