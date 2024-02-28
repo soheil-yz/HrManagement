@@ -1,4 +1,4 @@
-using HrManagement.MVC.Services;
+using HrManagement.MVC.Services.Base;
 using Microsoft.AspNetCore.SignalR;
 using System.Reflection;
 
