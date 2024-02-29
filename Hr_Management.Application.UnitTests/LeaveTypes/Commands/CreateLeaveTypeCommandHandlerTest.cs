@@ -6,6 +6,7 @@ using Hr_Management.Application.features.LeaveTypes.Handlers.Queries;
 using Hr_Management.Application.features.LeaveTypes.Requests.Commonds;
 using Hr_Management.Application.features.LeaveTypes.Requests.Queries;
 using Hr_Management.Application.Profiles;
+using Hr_Management.Application.Responses;
 using Hr_Management.Application.UnitTests.Mocks;
 using Moq;
 using Shouldly;
@@ -42,7 +43,7 @@ namespace Hr_Management.Application.UnitTests.LeaveTypes.Commands
         {
             var handler = new CreateLeaveTypeCommandHandler(_moqRepository.Object, _mapper);
             var result = await handler.Handle(new CreateLeaveTypeCommands() {LeaveTypeDto = _leaveTypeDto }, CancellationToken.None);
-            result.ShouldBeOfType<int>();
+            result.ShouldBeOfType<BaseCommandResponse>();
             
             var leaveType = await _moqRepository.Object.GetAll();
             leaveType.Count.ShouldBe(3);
