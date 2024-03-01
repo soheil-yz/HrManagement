@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 builder.Services.AddSingleton<ILocalStorageService, LocalStorageService>();
-builder.Services.AddSingleton<ILeaveTypeService, LeaveTypeService>();
+builder.Services.AddScoped<ILeaveTypeService, LeaveTypeService>();
 
 builder.Services.AddControllersWithViews();
 
