@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\models\\createleavetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\models\\createleavetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\models\\leavetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\models\\leavetypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationlistrequesthander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5906C010-359F-440C-B7BF-6BF3D90AD47F}|Hr_Management.Application\\Hr_Management.Application.csproj|solutionrelative:hr_management.application\\features\\leaveallcation\\handlers\\queries\\getleaveallocationlistrequesthander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.api\\controllers\\leavetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1962D5F2-71AE-4456-B597-56EFCC7796AE}|HrManagement.Api\\HrManagement.Api.csproj|solutionrelative:hrmanagement.api\\controllers\\leavetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|c:\\users\\sohei\\onedrive\\desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\clean_ar\\clean_ar\\hrmanagement\\hrmanagement.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CF685B-15FE-4F93-80D0-3E15ECBAAC2D}|HrManagement.MVC\\HrManagement.MVC.csproj|solutionrelative:hrmanagement.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,101 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ILeaveTypeService.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Contracts\\ILeaveTypeService.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Contracts\\ILeaveTypeService.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Contracts\\ILeaveTypeService.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Contracts\\ILeaveTypeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "HrManagement.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Program.cs",
+              "RelativeToolTip": "HrManagement.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:44:42.227Z",
+              "WhenOpened": "2024-03-01T15:57:34.11Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LeaveTypeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Models\\LeaveTypeViewModel.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Models\\LeaveTypeViewModel.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Models\\LeaveTypeViewModel.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Models\\LeaveTypeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:39:48.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateLeaveTypeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Models\\CreateLeaveTypeViewModel.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Models\\CreateLeaveTypeViewModel.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Models\\CreateLeaveTypeViewModel.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Models\\CreateLeaveTypeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:39:08.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\MappingProfile.cs",
-              "RelativeToolTip": "HrManagement.MVC\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:36:53.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceClient.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Services\\Base\\ServiceClient.cs",
-              "ViewState": "AQIAAGEGAAAAAAAAAAA6wG4GAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:26:26.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\Client.cs",
-              "RelativeDocumentMoniker": "HrManagement.MVC\\Services\\Base\\Client.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\Services\\Base\\Client.cs",
-              "RelativeToolTip": "HrManagement.MVC\\Services\\Base\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:20:34.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetLeaveAllocationListRequestHander.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "RelativeDocumentMoniker": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "RelativeToolTip": "Hr_Management.Application\\features\\LeaveAllcation\\Handlers\\Queries\\GetLeaveAllocationListRequestHander.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:16:58.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeaveTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "RelativeDocumentMoniker": "HrManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "ToolTip": "C:\\Users\\sohei\\OneDrive\\Desktop\\\u0627\u06CC\u0645\u0627\u0646 \u062A\u0642\u0648\u0627 \u0648\u0639\u0645\u0644 \u0635\u0627\u0644\u062D\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "RelativeToolTip": "HrManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCgAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:09:51.117Z"
             }
           ]
         }

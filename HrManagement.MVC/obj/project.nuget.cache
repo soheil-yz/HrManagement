@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2Ac4/38crhzsM6w0DLtC+qoyM5uul1WFdmPCU/Hbtge7PGQcWk3/6Z2agsIJ2blrvfEEajjdRLMSLdr2yTtImQ==",
+  "dgSpecHash": "N4Kwd7mzaOHB+qR151tnDjSMdS3e6QI/OFdqYh+w29OeiLyCBbGbwB3OAyTmOtpw/3o25yVrwoLhVAePJkrcng==",
   "success": true,
   "projectFilePath": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\Clean_Ar\\Clean_Ar\\HrManagement\\HrManagement.MVC\\HrManagement.MVC.csproj",
   "expectedPackageFiles": [
@@ -23,8 +23,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
-      "libraryId": "MediatR",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
+      "libraryId": "AutoMapper",
       "targetGraphs": [
         "net6.0"
       ]
@@ -33,8 +33,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
-      "libraryId": "AutoMapper",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
       "targetGraphs": [
         "net6.0"
       ]

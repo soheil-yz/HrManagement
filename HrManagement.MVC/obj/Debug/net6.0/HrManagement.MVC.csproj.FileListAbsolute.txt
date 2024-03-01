@@ -33,3 +33,14 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Cle
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\obj\Debug\net6.0\ref\HrManagement.MVC.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\LocalStorage.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\MediatR.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\Hr_Management.Application.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\Hr_Management.Domain.dll
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\Hr_Management.Application.pdb
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Clean_Ar\Clean_Ar\HrManagement\HrManagement.MVC\bin\Debug\net6.0\Hr_Management.Domain.pdb
